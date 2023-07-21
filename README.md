@@ -11,3 +11,15 @@ TAD Ponto - Triângulo | Vetor de 4 pontos (Triangulo) com nomes, pontos e perí
 TAD Ponto | Cria pontos (coordenadas com x e y) e manipulação delas
 TAD Racional | Criação e manipulação de números racionais
 TAD Triângulo | Uso do TAD Ponto para criar e manipular Triângulos
+TAD Lista + Vetor | TAD Lista com o armazenamento de dados em vetores
+Lista Encadeada | TAD que cria e manipula uma lista encadeada
+Pilha Sequencial | TAD Pilha usando vetor
+TAD Data | TAD com a manipulação de datas
+TAD Boleto | TAD com a manipulação de boletos
+LSOCR | Lista Sequencial Ordenada e Com repetição
+LSNOSR | Lista Sequencial Não ordenada e Sem repetição
+LSNOCR | Lista Sequencial Não ordenada e Com repetição
+LSOSR | Lista Sequencial Ordenada e Sem repetição
+LDECC | TAD lista duplamente encadeada circular com nó cabeça
+
+
