@@ -21,11 +21,13 @@ LSNOSR | Lista Sequencial Não ordenada e Sem repetição
 LSNOCR | Lista Sequencial Não ordenada e Com repetição
 LSOSR | Lista Sequencial Ordenada e Sem repetição
 LDECC | TAD lista duplamente encadeada circular com nó cabeça
+LSECC | TAD lista simplesmente encadeada circular com nó cabeça
 LDE | Lista Duplamente Encadeada
 LDEC | Lista Duplamente Encadeada Circular
 LSE | Lista Simplesmente Encadeada
 FSL | Fila Sequencial Linear
 FSC | Fila Sequencial Circular
+LEC | Lista Encadeada Circular
 Pilha Encadeada | TAD Pilha usando lista encadeada
 FENB | Fila Encadeada com Nó Bobo
 Árvore | TAD Árvore
