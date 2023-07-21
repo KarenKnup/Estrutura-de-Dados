@@ -1,10 +1,10 @@
 typedef struct no No;
 typedef struct lista Lista;
 
-Lista* criaLista();
-void destroiLista(Lista* l);
-int insereElemento(Lista* l, int valor);
-int removeElemento(Lista* l, int valor);
-int buscaElemento(Lista* l, int valor);
-void exibeLista(Lista* l);
-
+Lista* criar_lista();
+void inserir_no_inicio(Lista *lista, int num);
+void inserir_no_fim(Lista *lista, int num);
+void inserir_ordenado(Lista *lista, int num);
+No* remover(Lista *lista, int num);
+No* buscar(Lista *lista, int num);
+void imprimir(Lista *lista);
