@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Repetições & Sumarizações</h1><br><br> </div>
+<h1>Estrutura de Dados</h1><br><br> </div>
 
 Arquivo | Conteúdo
 --------|-----------
